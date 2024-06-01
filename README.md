@@ -16,3 +16,5 @@ Kangaroo FOUND PrivateKey : 0x00000000000000000000000935da71d7350734c3472fe305fe
 ======================================
 Program Finished
 ```
+
+python kangaroo.py -p 03633cbe3ec02b9401c5effa144c5b4d22f87940259634858fc7e59b1c09937852 -keyspace 200000000000000000000000000000000:3ffffffffffffffffffffffffffffffff -rand -ncore
